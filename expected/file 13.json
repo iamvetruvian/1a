@@ -1,0 +1,35 @@
+{
+    "title": "State Statistics",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Program Data",
+            "page": 0
+        },
+        {
+            "level": "H2",
+            "text": "Social Security",
+            "page": 0
+        },
+        {
+            "level": "H2",
+            "text": "Supplemental Security Income",
+            "page": 0
+        },
+        {
+            "level": "H1",
+            "text": "Earnings and Employment",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Social Security",
+            "page": 1
+        },
+        {
+            "level": "H2",
+            "text": "Medicare",
+            "page": 1
+        }
+    ]
+}

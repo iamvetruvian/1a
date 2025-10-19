@@ -1,0 +1,110 @@
+{
+  "title": "A Look at Intel’s Dataplane Development Kit",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "ABSTRACT",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "INTRODUCTION",
+      "page": 0
+    },
+    {
+      "level": "H1",
+      "text": "PACKET PROCESSING USING COMMODITY HARDWARE",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "Receiving Side NIC",
+      "page": 0
+    },
+    {
+      "level": "H2",
+      "text": "Linux Network Stack",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Transmitting NIC",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Performance Limiting Factors",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "INTEL’S DATAPLANE DEVELOPMENT KIT",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Overview",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Libraries",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Queue Management",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Memory Management",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Network Packet Buffer Management",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "Further Libraries and Features",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Using the Dataplane Development Kit",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "OTHER FRAMEWORKS",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "netmap",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "PF_RING (DNA)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Comparison: Intel DPDK, netmap and PF_RING DNA",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "CONCLUSION",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "REFERENCES",
+      "page": 7
+    }
+  ]
+}

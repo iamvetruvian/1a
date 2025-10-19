@@ -1,0 +1,155 @@
+{
+    "title": "5-Level Paging and 5-Level EPT",
+    "outline": [
+        {
+            "level": "H1",
+            "text": "Contents",
+            "page": 2
+        },
+        {
+            "level": "H1",
+            "text": "Revision History",
+            "page": 3
+        },
+        {
+            "level": "H1",
+            "text": "Introduction",
+            "page": 10
+        },
+        {
+            "level": "H2",
+            "text": "Existing Paging in IA-32e Mode",
+            "page": 10
+        },
+        {
+            "level": "H2",
+            "text": "Linear-Address Width and VMX Transitions",
+            "page": 12
+        },
+        {
+            "level": "H2",
+            "text": "Existing Extended Page Tables (EPT)",
+            "page": 13
+        },
+        {
+            "level": "H1",
+            "text": "Expanding Linear Addresses: 5-Level Paging",
+            "page": 14
+        },
+        {
+            "level": "H2",
+            "text": "5-Level Paging: Introduction",
+            "page": 14
+        },
+        {
+            "level": "H2",
+            "text": "Enumeration and Enabling",
+            "page": 14
+        },
+        {
+            "level": "H3",
+            "text": "Enumeration by CPUID",
+            "page": 14
+        },
+        {
+            "level": "H3",
+            "text": "Enabling by Software",
+            "page": 15
+        },
+        {
+            "level": "H2",
+            "text": "Linear-Address Generation and Canonicality",
+            "page": 15
+        },
+        {
+            "level": "H2",
+            "text": "5-Level Paging: Linear-Address Translation",
+            "page": 16
+        },
+        {
+            "level": "H2",
+            "text": "Linear-Address Registers and Canonicality",
+            "page": 17
+        },
+        {
+            "level": "H3",
+            "text": "Canonicality Checking on RIP Loads",
+            "page": 18
+        },
+        {
+            "level": "H3",
+            "text": "Canonicality Checking on Other Loads",
+            "page": 19
+        },
+        {
+            "level": "H2",
+            "text": "Interactions with TLB-Invalidation Instructions",
+            "page": 20
+        },
+        {
+            "level": "H2",
+            "text": "Interactions with Intel® MPX",
+            "page": 21
+        },
+        {
+            "level": "H2",
+            "text": "Interactions with Intel® SGX",
+            "page": 22
+        },
+        {
+            "level": "H1",
+            "text": "Linear-Address Expansion and VMX Transitions",
+            "page": 24
+        },
+        {
+            "level": "H2",
+            "text": "Linear-Address Expansion and VM Entries",
+            "page": 24
+        },
+        {
+            "level": "H2",
+            "text": "Linear-Address Expansion and VM Exits",
+            "page": 24
+        },
+        {
+            "level": "H1",
+            "text": "5-Level EPT",
+            "page": 26
+        },
+        {
+            "level": "H2",
+            "text": "4-Level EPT: Guest-Physical-Address Limit",
+            "page": 26
+        },
+        {
+            "level": "H2",
+            "text": "5-Level EPT: Enumeration and Enabling",
+            "page": 26
+        },
+        {
+            "level": "H3",
+            "text": "Enumeration",
+            "page": 26
+        },
+        {
+            "level": "H3",
+            "text": "Enabling by Software",
+            "page": 27
+        },
+        {
+            "level": "H2",
+            "text": "5-Level EPT: Guest-Physical-Address Translation",
+            "page": 27
+        },
+        {
+            "level": "H2",
+            "text": "5-Level EPT and EPTP Switching",
+            "page": 28
+        },
+        {
+            "level": "H1",
+            "text": "Intel® Virtualization Technology for Directed I/O",
+            "page": 30
+        }
+    ]
+}

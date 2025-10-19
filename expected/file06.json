@@ -1,0 +1,120 @@
+{
+  "title": "No title found",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Welcome to the “Connecting the Dots” Challenge",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Rethink Reading. Rediscover Knowledge",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "The Journey Ahead",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Why This Matters",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Round 1A: Understand Your Document",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Your Mission",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Why This Matters",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "What You Need to Build",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "You Will Be Provided",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Docker Requirements",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Expected Execution",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Constraints",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Scoring Criteria",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Submission Checklist",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Pro Tips",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "What Not to Do",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Round 1B: Persona-Driven Document Intelligence",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Challenge Brief (For Participants)",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Input Specification",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Sample Test Cases",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Required Output",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Deliverables",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Scoring Criteria",
+      "page": 8
+    }
+  ]
+}
